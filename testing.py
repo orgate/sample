@@ -1,2 +1,2 @@
-print("Hello World")
-print("Second line")
+import os
+print("Hello World")print("Second line")
